@@ -27,7 +27,7 @@ def prime_test(N, k):
             return 'composite'
 
 
-    return 'prime'
+    return 'prime' #test
 
 
 def check_k(k,N): # time O(n) were n is the number of bits in N
